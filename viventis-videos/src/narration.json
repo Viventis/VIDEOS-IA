@@ -1,0 +1,50 @@
+{
+  "language": "es",
+  "lines": [
+    {
+      "id": "s1",
+      "text": "Antes de que salga el sol, ya estás pensando en todos.",
+      "v3": "[tiernamente] Antes de que salga el sol... ya estás pensando en todos."
+    },
+    {
+      "id": "s2",
+      "text": "En su lonche. En su tarea. En cada abrazo. Haces todo por ellos.",
+      "v3": "[con cariño] En su lonche. En su tarea. En cada abrazo. [suspira suavemente] Haces todo por ellos."
+    },
+    {
+      "id": "s3",
+      "text": "Pero cuando alguien en casa necesita una cita, aparece la pregunta: ¿cuánto me va a costar? Y la dejas para después.",
+      "v3": "Pero cuando alguien en casa necesita una cita... aparece la pregunta: [con duda] ¿cuánto me va a costar? [con tristeza] Y la dejas para después."
+    },
+    {
+      "id": "s4",
+      "text": "Porque para ti, primero están ellos.",
+      "v3": "[con emoción contenida] Porque para ti... primero están ellos."
+    },
+    {
+      "id": "s5",
+      "text": "Por eso existe Viventis: una membresía de descuentos médicos, solo en Texas.",
+      "v3": "[cálida, con esperanza] Por eso existe Viventis: una membresía de descuentos médicos, solo en Texas."
+    },
+    {
+      "id": "s6",
+      "text": "Di que eres miembro, y pregunta tu precio con descuento antes de tu cita.",
+      "v3": "[con confianza] Di que eres miembro, y pregunta tu precio con descuento antes de tu cita."
+    },
+    {
+      "id": "s7",
+      "text": "Médicos y hospitales, laboratorio, imágenes diagnósticas y farmacia, con proveedores participantes.",
+      "v3": "[cálida] Médicos y hospitales, laboratorio, imágenes diagnósticas y farmacia, con proveedores participantes."
+    },
+    {
+      "id": "s8",
+      "text": "Y con la membresía Familia, son hasta cinco personas.",
+      "v3": "[sonriendo] Y con la membresía Familia, son hasta cinco personas."
+    },
+    {
+      "id": "s9",
+      "text": "Viventis. Únete hoy en viventis punto health.",
+      "v3": "[cálida, sonriendo] Viventis. Únete hoy en viventis punto health."
+    }
+  ]
+}

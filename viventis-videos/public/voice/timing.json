@@ -1,0 +1,589 @@
+{
+  "voice": "XrExE9yKIg1WjnnlVkGX",
+  "model": "eleven_v3",
+  "lines": [
+    {
+      "id": "s1",
+      "text": "Antes de que salga el sol, ya estás pensando en todos.",
+      "duration": 3.28,
+      "words": [
+        {
+          "w": "Antes",
+          "start": 0.14,
+          "end": 0.24
+        },
+        {
+          "w": "de",
+          "start": 0.267,
+          "end": 0.32
+        },
+        {
+          "w": "que",
+          "start": 0.36,
+          "end": 0.48
+        },
+        {
+          "w": "salga",
+          "start": 0.54,
+          "end": 0.8
+        },
+        {
+          "w": "el",
+          "start": 0.827,
+          "end": 0.88
+        },
+        {
+          "w": "sol...",
+          "start": 0.98,
+          "end": 1.84
+        },
+        {
+          "w": "ya",
+          "start": 1.893,
+          "end": 2
+        },
+        {
+          "w": "estás",
+          "start": 2.04,
+          "end": 2.24
+        },
+        {
+          "w": "pensando",
+          "start": 2.288,
+          "end": 2.64
+        },
+        {
+          "w": "en",
+          "start": 2.693,
+          "end": 2.8
+        },
+        {
+          "w": "todos.",
+          "start": 2.867,
+          "end": 3.28
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "En su lonche. En su tarea. En cada abrazo. Haces todo por ellos.",
+      "duration": 6.656,
+      "words": [
+        {
+          "w": "En",
+          "start": 0.072,
+          "end": 0.08
+        },
+        {
+          "w": "su",
+          "start": 0.16,
+          "end": 0.32
+        },
+        {
+          "w": "lonche.",
+          "start": 0.4,
+          "end": 0.96
+        },
+        {
+          "w": "En",
+          "start": 1.12,
+          "end": 1.44
+        },
+        {
+          "w": "su",
+          "start": 1.493,
+          "end": 1.6
+        },
+        {
+          "w": "tarea.",
+          "start": 1.68,
+          "end": 2.16
+        },
+        {
+          "w": "En",
+          "start": 2.347,
+          "end": 2.72
+        },
+        {
+          "w": "cada",
+          "start": 2.784,
+          "end": 3.04
+        },
+        {
+          "w": "abrazo.",
+          "start": 3.093,
+          "end": 3.68
+        },
+        {
+          "w": "Haces",
+          "start": 5.196,
+          "end": 5.536
+        },
+        {
+          "w": "todo",
+          "start": 5.6,
+          "end": 5.856
+        },
+        {
+          "w": "por",
+          "start": 5.896,
+          "end": 6.016
+        },
+        {
+          "w": "ellos.",
+          "start": 6.096,
+          "end": 6.656
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Pero cuando alguien en casa necesita una cita, aparece la pregunta: ¿cuánto me va a costar? Y la dejas para después.",
+      "duration": 8.331,
+      "words": [
+        {
+          "w": "Pero",
+          "start": 0,
+          "end": 0.16
+        },
+        {
+          "w": "cuando",
+          "start": 0.194,
+          "end": 0.4
+        },
+        {
+          "w": "alguien",
+          "start": 0.44,
+          "end": 0.72
+        },
+        {
+          "w": "en",
+          "start": 0.773,
+          "end": 0.88
+        },
+        {
+          "w": "casa",
+          "start": 0.928,
+          "end": 1.12
+        },
+        {
+          "w": "necesita",
+          "start": 1.173,
+          "end": 1.6
+        },
+        {
+          "w": "una",
+          "start": 1.64,
+          "end": 1.76
+        },
+        {
+          "w": "cita...",
+          "start": 1.856,
+          "end": 2.96
+        },
+        {
+          "w": "aparece",
+          "start": 3.027,
+          "end": 3.44
+        },
+        {
+          "w": "la",
+          "start": 3.493,
+          "end": 3.6
+        },
+        {
+          "w": "pregunta:",
+          "start": 3.653,
+          "end": 4.24
+        },
+        {
+          "w": "¿cuánto",
+          "start": 5.02,
+          "end": 5.2
+        },
+        {
+          "w": "me",
+          "start": 5.227,
+          "end": 5.28
+        },
+        {
+          "w": "va",
+          "start": 5.307,
+          "end": 5.36
+        },
+        {
+          "w": "a",
+          "start": 5.4,
+          "end": 5.44
+        },
+        {
+          "w": "costar?",
+          "start": 5.504,
+          "end": 6.08
+        },
+        {
+          "w": "Y",
+          "start": 7.011,
+          "end": 7.051
+        },
+        {
+          "w": "la",
+          "start": 7.078,
+          "end": 7.131
+        },
+        {
+          "w": "dejas",
+          "start": 7.184,
+          "end": 7.451
+        },
+        {
+          "w": "para",
+          "start": 7.499,
+          "end": 7.691
+        },
+        {
+          "w": "después.",
+          "start": 7.761,
+          "end": 8.331
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Porque para ti, primero están ellos.",
+      "duration": 2.32,
+      "words": [
+        {
+          "w": "Porque",
+          "start": 0.147,
+          "end": 0.28
+        },
+        {
+          "w": "para",
+          "start": 0.304,
+          "end": 0.4
+        },
+        {
+          "w": "ti...",
+          "start": 0.507,
+          "end": 1.12
+        },
+        {
+          "w": "primero",
+          "start": 1.17,
+          "end": 1.52
+        },
+        {
+          "w": "están",
+          "start": 1.56,
+          "end": 1.76
+        },
+        {
+          "w": "ellos.",
+          "start": 1.84,
+          "end": 2.32
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Por eso existe Viventis: una membresía de descuentos médicos, solo en Texas.",
+      "duration": 6.24,
+      "words": [
+        {
+          "w": "Por",
+          "start": 0.152,
+          "end": 0.16
+        },
+        {
+          "w": "eso",
+          "start": 0.22,
+          "end": 0.4
+        },
+        {
+          "w": "existe",
+          "start": 0.457,
+          "end": 0.8
+        },
+        {
+          "w": "Viventis:",
+          "start": 0.86,
+          "end": 1.52
+        },
+        {
+          "w": "una",
+          "start": 1.68,
+          "end": 2.16
+        },
+        {
+          "w": "membresía",
+          "start": 2.22,
+          "end": 2.72
+        },
+        {
+          "w": "de",
+          "start": 2.747,
+          "end": 2.8
+        },
+        {
+          "w": "descuentos",
+          "start": 2.864,
+          "end": 3.36
+        },
+        {
+          "w": "médicos,",
+          "start": 3.42,
+          "end": 4
+        },
+        {
+          "w": "solo",
+          "start": 4.128,
+          "end": 4.64
+        },
+        {
+          "w": "en",
+          "start": 4.667,
+          "end": 4.72
+        },
+        {
+          "w": "Texas.",
+          "start": 4.827,
+          "end": 6.24
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "Di que eres miembro, y pregunta tu precio con descuento antes de tu cita.",
+      "duration": 4,
+      "words": [
+        {
+          "w": "Di",
+          "start": 0.145,
+          "end": 0.16
+        },
+        {
+          "w": "que",
+          "start": 0.2,
+          "end": 0.32
+        },
+        {
+          "w": "eres",
+          "start": 0.347,
+          "end": 0.48
+        },
+        {
+          "w": "miembro,",
+          "start": 0.533,
+          "end": 1.12
+        },
+        {
+          "w": "y",
+          "start": 1.2,
+          "end": 1.28
+        },
+        {
+          "w": "pregunta",
+          "start": 1.333,
+          "end": 1.76
+        },
+        {
+          "w": "tu",
+          "start": 1.813,
+          "end": 1.92
+        },
+        {
+          "w": "precio",
+          "start": 1.966,
+          "end": 2.24
+        },
+        {
+          "w": "con",
+          "start": 2.28,
+          "end": 2.4
+        },
+        {
+          "w": "descuento",
+          "start": 2.448,
+          "end": 2.88
+        },
+        {
+          "w": "antes",
+          "start": 2.947,
+          "end": 3.28
+        },
+        {
+          "w": "de",
+          "start": 3.307,
+          "end": 3.36
+        },
+        {
+          "w": "tu",
+          "start": 3.413,
+          "end": 3.52
+        },
+        {
+          "w": "cita.",
+          "start": 3.6,
+          "end": 4
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "Médicos y hospitales, laboratorio, imágenes diagnósticas y farmacia, con proveedores participantes.",
+      "duration": 7.04,
+      "words": [
+        {
+          "w": "Médicos",
+          "start": 0.14,
+          "end": 0.21
+        },
+        {
+          "w": "y",
+          "start": 0.22,
+          "end": 0.23
+        },
+        {
+          "w": "hospitales,",
+          "start": 0.24,
+          "end": 0.8
+        },
+        {
+          "w": "laboratorio,",
+          "start": 0.84,
+          "end": 1.84
+        },
+        {
+          "w": "imágenes",
+          "start": 1.92,
+          "end": 2.907
+        },
+        {
+          "w": "diagnósticas",
+          "start": 2.96,
+          "end": 3.6
+        },
+        {
+          "w": "y",
+          "start": 3.653,
+          "end": 3.707
+        },
+        {
+          "w": "farmacia,",
+          "start": 3.76,
+          "end": 4.96
+        },
+        {
+          "w": "con",
+          "start": 5.1,
+          "end": 5.52
+        },
+        {
+          "w": "proveedores",
+          "start": 5.56,
+          "end": 6.08
+        },
+        {
+          "w": "participantes.",
+          "start": 6.124,
+          "end": 7.04
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "Y con la membresía Familia, son hasta cinco personas.",
+      "duration": 3.2,
+      "words": [
+        {
+          "w": "Y",
+          "start": 0.073,
+          "end": 0.08
+        },
+        {
+          "w": "con",
+          "start": 0.12,
+          "end": 0.24
+        },
+        {
+          "w": "la",
+          "start": 0.267,
+          "end": 0.32
+        },
+        {
+          "w": "membresía",
+          "start": 0.38,
+          "end": 0.88
+        },
+        {
+          "w": "Familia,",
+          "start": 0.947,
+          "end": 1.6
+        },
+        {
+          "w": "son",
+          "start": 1.66,
+          "end": 1.84
+        },
+        {
+          "w": "hasta",
+          "start": 1.88,
+          "end": 2.08
+        },
+        {
+          "w": "cinco",
+          "start": 2.133,
+          "end": 2.4
+        },
+        {
+          "w": "personas.",
+          "start": 2.48,
+          "end": 3.2
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "Viventis. Únete hoy en viventis punto health.",
+      "duration": 5.28,
+      "words": [
+        {
+          "w": "Viventis.",
+          "start": 0.225,
+          "end": 1.28
+        },
+        {
+          "w": "Únete",
+          "start": 1.32,
+          "end": 1.68
+        },
+        {
+          "w": "hoy",
+          "start": 1.78,
+          "end": 2.08
+        },
+        {
+          "w": "en",
+          "start": 2.133,
+          "end": 2.24
+        },
+        {
+          "w": "viventis",
+          "start": 2.28,
+          "end": 2.8
+        },
+        {
+          "w": "punto",
+          "start": 2.84,
+          "end": 3.04
+        },
+        {
+          "w": "health.",
+          "start": 3.109,
+          "end": 5.28
+        }
+      ]
+    }
+  ]
+}

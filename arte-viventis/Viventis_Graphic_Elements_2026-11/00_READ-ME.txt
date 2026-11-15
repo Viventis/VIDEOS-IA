@@ -1,0 +1,40 @@
+VIVENTIS GRAPHIC ELEMENTS · November 2026
+Logos, graphic elements, icons and post backgrounds. PNGs have transparent backgrounds except the
+email-signature logo, the base backgrounds and the palette card. Rules: Viventis brand manual v1.2.
+
+01_Logos
+  viventis-lockup_transparent_608x144.png        Main logo. On sand, mint or white grounds.
+  viventis-lockup_on-white_600x142_email-signature.png   Email signatures and Office documents.
+  viventis-mark_transparent_144px.png            Mark alone: avatars, favicons, watermarks.
+  viventis-logo-chip_for-dark-grounds_*.png      The logo inside its white chip, for forest, night or teal grounds.
+  608 x 144 px is the largest logo that exists. Never enlarge, recolour, stretch or retype it.
+  The mark is a stethoscope and a plant at the same time: the earpieces are two leaves, the tube is the stem.
+
+02_Graphic_Elements (PNG at 3x, crisp at post size)
+  sprouts/          The two leaves from the mark on a stem: on-light, on-dark, holiday, holiday trio.
+                    Bottom right of a piece, never over text.
+  circles/          Single circles in the palette, plus three ready-made clusters.
+  pills/            Outline pills (light and dark grounds) and filled audience pills, EN and ES.
+  cta-chips/        Terra call-to-action chips. One per piece. "Únete hoy" / "Join today" only from Dec 1.
+  contact-card/     info@viventis.health · 650-382-3451, with its soft shadow. Only on pieces with an ask.
+  number-circles/   1-4 in forest, teal, sage and rust. Three or four steps, never more.
+  quote-mark/       Terra quote mark for beliefs and mission lines.
+  check-bullets/    Check circles in teal, forest and white.
+  service-tiles/    The four services every membership includes, EN and ES, numbered in the order to use:
+                    1 physicians and hospitals, 2 lab work, 3 diagnostic imaging, 4 pharmacy.
+                    The Solo Dental tile is for the separate dental product only. Dental is NOT part of
+                    the memberships: never put it next to the four service tiles as a membership benefit.
+
+03_Icons            13 line icons at 256 px in forest, teal and white. Shapes from Lucide (ISC licence).
+
+04_Backgrounds      Blank post bases with the logo and decoration placed; add the headline top left.
+                    Portrait 1080x1350 (sand, forest), landscape 1200x627 (split, sand), story 1080x1920.
+
+05_Color            Palette card with every hex value.
+
+06_SVG              Vector versions that scale to any size: sprouts, circles, clusters and all icons.
+                    Open them in Illustrator, Figma, Canva or PowerPoint.
+
+Prices: totals only (per year or every 6 months). Never a per-month, per-day or per-person price.
+Fonts are not images: install Plus Jakarta Sans from the brand kit (03_Typography) or fonts.google.com.
+Every caption ends with Legal's line. Nothing publishes until New Benefits approves in writing.

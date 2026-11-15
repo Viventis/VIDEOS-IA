@@ -1,0 +1,6 @@
+# Secretos locales (API keys). Usa .env.example como plantilla.
+.env
+.env.*
+!.env.example
+
+node_modules/
